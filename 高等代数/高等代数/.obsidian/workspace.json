@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "0ad7f16605f893c7",
+    "id": "0258fe4dbc3e4b8e",
     "type": "split",
     "children": [
       {
-        "id": "3604af7073ac7472",
+        "id": "db69f4a80fadc7f4",
         "type": "tabs",
         "children": [
           {
-            "id": "58b7f7aca210652f",
+            "id": "59d63369e411166f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0简介.md",
+                "file": "高等代数教程/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0简介"
+              "title": "未命名"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e6520deb8f84beca",
+    "id": "80dee8d4d025356f",
     "type": "split",
     "children": [
       {
-        "id": "028df4f3e42989f1",
+        "id": "9b1c035f7eec68df",
         "type": "tabs",
         "children": [
           {
-            "id": "5fdb0412e657b137",
+            "id": "4a50d1f6e3ee3fc4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "d8dac211cc40648d",
+            "id": "62a59363d2dde287",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "3ad5bc9a64137068",
+            "id": "352e8396d89a9a4d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "47fcd7e55f527812",
+    "id": "74a8f4d90a071963",
     "type": "split",
     "children": [
       {
-        "id": "7f0413f6752b48a8",
+        "id": "d5169a323255527b",
         "type": "tabs",
         "children": [
           {
-            "id": "aff4bd4e12b13fdd",
+            "id": "5c2dfc5e75f49dd4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1C语言基本概念.md",
+                "file": "高等代数教程/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "f2a27e21d0e0b4bb",
+            "id": "42700a6422d79339",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1C语言基本概念.md",
+                "file": "高等代数教程/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "fda916d45958f8a3",
+            "id": "2655dfb87978a67b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "eb0a52850daa5654",
+            "id": "d0d8fb9884cbd24f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +156,12 @@
             }
           },
           {
-            "id": "41d08b8cac53f122",
+            "id": "82f6a17f1c7dd7d9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1C语言基本概念.md",
+                "file": "高等代数教程/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,9 +188,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "58b7f7aca210652f",
+  "active": "59d63369e411166f",
   "lastOpenFiles": [
-    "1C语言基本概念.md",
-    "0简介.md"
+    "高等代数教程/未命名.md",
+    "高等代数（第二版）/未命名.md",
+    "高等代数（奥库涅夫）/未命名.md",
+    "0简介.md",
+    "高等代数教程",
+    "高等代数（奥库涅夫）",
+    "高等代数（第二版）",
+    "未命名.md"
   ]
 }
